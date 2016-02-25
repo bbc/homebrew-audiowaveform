@@ -1,6 +1,6 @@
 # Audio Waveform Image Generator
 
-[![Build Status](https://travis-ci.org/bbcrd/homebrew-audiowaveform.png?branch=master)](https://travis-ci.org/bbcrd/homebrew-audiowaveform)
+[![Build Status](https://travis-ci.org/bbcrd/homebrew-audiowaveform.svg?branch=master)](https://travis-ci.org/bbcrd/homebrew-audiowaveform)
 
 This repository contains a Homebrew formula to easily install `audiowaveform` via Homebrew. For information on installing and using `audiowaveform`, please see the [original repository](https://github.com/bbcrd/audiowaveform).
 
