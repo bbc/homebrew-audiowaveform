@@ -2,6 +2,7 @@ os:
   - osx
 
 script:
+  - brew update
   - brew tap bbcrd/audiowaveform
   - brew install audiowaveform
   # - ./audiowaveform_tests
