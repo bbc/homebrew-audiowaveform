@@ -1,0 +1,7 @@
+os:
+  - osx
+
+script:
+  - brew tap bbcrd/audiowaveform
+  - brew install audiowaveform
+  # - ./audiowaveform_tests
