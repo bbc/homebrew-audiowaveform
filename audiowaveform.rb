@@ -2,7 +2,7 @@ require 'formula'
 
 class Audiowaveform < Formula
 	desc "C++ program to generate waveform data and render waveform images from audio files"
-	homepage "https://github.com/bbcrd/homebrew-audiowaveform"
+	homepage "https://github.com/bbcrd/audiowaveform"
 	url "https://github.com/bbcrd/audiowaveform/archive/1.0.10.tar.gz"
 	sha256 "7d76a65962ec147befaad807aeae893a0d6f7f8443f9a5ecfe4776cbfc8cff37"
 
@@ -34,3 +34,4 @@ class Audiowaveform < Formula
 		# system "make", "test"
 	end
 end
+
