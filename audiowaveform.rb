@@ -3,8 +3,8 @@ require 'formula'
 class Audiowaveform < Formula
   desc "C++ program to generate waveform data and render waveform images from audio files"
   homepage "https://github.com/bbc/audiowaveform"
-  url "https://github.com/bbc/audiowaveform/archive/1.0.12.tar.gz"
-  sha256 "962a31ddff5e365bfb706246d22171b3f96a014f68e9badf95229ed06f0600ae"
+  url "https://github.com/bbc/audiowaveform/archive/1.1.0.tar.gz"
+  sha256 "2c1a01fcb2297197c43ef920b7088f9ed93ce68ffcacc3ad9e50b2622e64aebc"
 
   depends_on "cmake"
   depends_on "libmad"
@@ -20,7 +20,7 @@ class Audiowaveform < Formula
   # depends_on "gmock"
 
   def install
-    cmake_args = std_cmake_parameters.split
+    cmake_args = std_cmake_args
     cmake_args << "-DENABLE_TESTS=0"
     cmake_args << "-DCMAKE_C_COMPILER=/usr/bin/clang"
     cmake_args << "-DCMAKE_CXX_COMPILER=/usr/bin/clang++"
