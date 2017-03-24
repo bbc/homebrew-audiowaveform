@@ -8,6 +8,7 @@ class Audiowaveform < Formula
 
   depends_on "cmake"
   depends_on "libmad"
+  depends_on "libid3tag"
   depends_on "libsndfile"
   depends_on "gd"
 
