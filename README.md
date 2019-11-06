@@ -24,4 +24,4 @@ This software was written by:
 
 ## Copyright
 
-Copyright 2018 British Broadcasting Corporation, and contributors
+Copyright 2019 British Broadcasting Corporation, and contributors
