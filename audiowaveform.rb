@@ -3,8 +3,8 @@ require 'formula'
 class Audiowaveform < Formula
   desc "C++ program to generate waveform data and render waveform images from audio files"
   homepage "https://github.com/bbc/audiowaveform"
-  url "https://github.com/bbc/audiowaveform/archive/1.4.2.tar.gz"
-  sha256 "3fc6b995d1ae0e5bf735a76e681e3e0df85eeabc06e7f253b5e28eff2c842354"
+  url "https://github.com/bbc/audiowaveform/archive/1.5.0.tar.gz"
+  sha256 "4b16eb4acb10e69c45e005b774e17aebdc2cfd5d3bd430aae0587869194962d9"
   depends_on "cmake"
   depends_on "libmad"
   depends_on "libid3tag"
