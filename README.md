@@ -24,4 +24,4 @@ This software was written by:
 
 ## Copyright
 
-Copyright 2020 British Broadcasting Corporation, and contributors
+Copyright 2021 British Broadcasting Corporation, and contributors
