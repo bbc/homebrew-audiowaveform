@@ -1,6 +1,6 @@
 # Audio Waveform Image Generator
 
-[![Build Status](https://travis-ci.org/bbc/homebrew-audiowaveform.svg?branch=master)](https://travis-ci.org/bbc/homebrew-audiowaveform)
+![Build Status](https://github.com/bbc/homebrew-audiowaveform/actions/workflows/brew.yml/badge.svg?branch=master)
 
 This repository contains a Homebrew formula to easily install `audiowaveform` via Homebrew. For information on installing and using `audiowaveform`, please see the [original repository](https://github.com/bbc/audiowaveform).
 
@@ -24,4 +24,4 @@ This software was written by:
 
 ## Copyright
 
-Copyright 2022 British Broadcasting Corporation, and contributors
+Copyright 2023 British Broadcasting Corporation, and contributors
