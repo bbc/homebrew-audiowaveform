@@ -1,5 +1,5 @@
 class Audiowaveform < Formula
-  desc "Program to generate waveform data and render waveform images from audio files"
+  desc "Generate waveform data and render waveform images from audio files"
   homepage "https://github.com/bbc/audiowaveform"
   url "https://github.com/bbc/audiowaveform/archive/1.8.1.tar.gz"
   sha256 "bd1254a4ddbc0eb68eb8dbd549335c3207260afdae4bf80cfe5d4129de51d1e7"
