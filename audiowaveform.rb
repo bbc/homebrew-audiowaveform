@@ -1,8 +1,8 @@
 class Audiowaveform < Formula
   desc "Generate waveform data and render waveform images from audio files"
   homepage "https://github.com/bbc/audiowaveform"
-  url "https://github.com/bbc/audiowaveform/archive/1.9.1.tar.gz"
-  sha256 "04dabd18c783758d666bc946f58d7d5c8ebfdb8b328048b9a884bc0ac8cdf068"
+  url "https://github.com/bbc/audiowaveform/archive/1.10.0.tar.gz"
+  sha256 "75d9b8e70c94376951be5cf6d5fa5b3af196768d63871c8417896a2fbbcd3038"
   depends_on "cmake"
   depends_on "gd"
   depends_on "libid3tag"
